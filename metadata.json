@@ -1,0 +1,6 @@
+{
+  "name": "X Drifter Master Design · SIH 2026 PS 26065",
+  "description": "Autonomous 0.3–10 m Southern Ocean profiling drifter for MoES / NCPOR. Bare-metal STM32L476 superloop, allowed-curve energy gate, 31-byte Argos telemetry, and ground processing pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
